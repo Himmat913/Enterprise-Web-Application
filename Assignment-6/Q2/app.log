@@ -1,0 +1,12 @@
+2026-11-01 09:00:01 INFO Application started
+2026-11-01 09:00:05 INFO User login successful
+2026-11-01 09:01:12 WARNING Disk usage is above 80 percent
+2026-11-01 09:02:30 INFO Fetching data from database
+2026-11-01 09:03:45 ERROR Database connection failed
+2026-11-01 09:04:10 INFO Retrying connection
+2026-11-01 09:04:15 ERROR Retry failed
+2026-11-01 09:05:00 WARNING Response time is slow
+2026-11-01 09:06:20 INFO Connection restored
+2026-11-01 09:07:00 INFO Report generated
+2026-11-01 09:08:30 WARNING Memory usage is high
+2026-11-01 09:10:00 INFO Application stopped
